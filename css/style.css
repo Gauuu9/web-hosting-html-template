@@ -400,6 +400,17 @@ h6,
     border-right: none;
 }
 .col-lg-5{
-    height: 50px;
-    width: 200pxpx;
+    height: 200px;
+    width: 200px;
+}
+.real{
+    color: #6b6b6b;
+}
+.counter-wrapper {
+    display: inline-flex;
+    align-items: baseline; /* Aligns the text vertically */
+}
+
+.counter-wrapper h2 {
+    margin-right: 0.2em; /* Optional: adds some space between the numbers */
 }
