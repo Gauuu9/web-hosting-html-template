@@ -399,3 +399,7 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+.col-lg-5{
+    height: 50px;
+    width: 200pxpx;
+}
