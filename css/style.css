@@ -399,10 +399,10 @@ h6,
     padding-right: 0;
     border-right: none;
 }
-.col-lg-5{
-    height: 200px;
-    width: 200px;
-}
+/* .col-lg-5{
+    height: 300px;
+    width: 500px;
+} */
 .real{
     color: #6b6b6b;
 }
